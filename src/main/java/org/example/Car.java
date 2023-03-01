@@ -4,7 +4,7 @@ public class Car {
     String name;
     double fuelLevel;
     double mileage;
-    double totalTravelDistance;
+    double totalTraveledDistance;
     double maxSpeed;
 
     int doorCount;
