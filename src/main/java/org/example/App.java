@@ -49,7 +49,6 @@ public class App
         carReference.name= "BMW";
         System .out.println("new name of new car: " +carReference.name );
 
-
         carReference=car2;
         System .out.println("name of new car: " +carReference.name );
         System .out.println("name of new car: " +car2.name);
